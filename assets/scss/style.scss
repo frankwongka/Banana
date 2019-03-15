@@ -1,0 +1,9 @@
+$primary-color: #44b1a8;
+
+@import "./partial/gallery";
+@import "./partial/table";
+
+
+h1 {
+    color:$primary-color;
+}
